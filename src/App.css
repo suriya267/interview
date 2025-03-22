@@ -1,0 +1,60 @@
+@font-face {
+  font-family: "Saira-Regular";
+  src: url("/src/assets/fonts/Saira-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Saira-Medium";
+  src: url("/src/assets/fonts/Saira-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Saira-Bold";
+  src: url("/src/assets/fonts/Saira-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Saira-SemiBold";
+  src: url("/src/assets/fonts/Saira-SemiBold.ttf") format("truetype");
+}
+
+.css-16wblaj-MuiInputBase-input-MuiOutlinedInput-input {
+  padding: 0px 10px !important;
+  height: 45px !important;
+}
+
+.css-19qnlrw-MuiFormLabel-root-MuiInputLabel-root {
+  line-height: 1 !important;
+}
+
+.ant-form-item-required {
+  font-family: Saira-SemiBold;
+}
+
+.ant-radio-label {
+  font-family: Saira-Regular;
+}
+
+.ant-checkbox-label {
+  font-family: Saira-Regular;
+}
+
+.ant-input {
+  font-family: Saira-Regular;
+}
+
+.ant-select-selection-item {
+  font-family: Saira-Regular;
+}
+
+.ant-picker-input {
+  font-family: Saira-Regular;
+}
+
+.ant-btn-primary {
+  font-family: Saira-Medium;
+}
+
+.ant-form-item-explain-error{
+  font-family: Saira-Regular;
+}
